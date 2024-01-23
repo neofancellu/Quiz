@@ -1,5 +1,9 @@
 # Quiz
 
+small project consisting of a set of questions thats the user needs to answer. after questions are answers the user is told what is correct and incorrect.
+
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
